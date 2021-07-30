@@ -26,7 +26,7 @@
 
 .remark-slide-number .progress-bar {
   height: 100%;
-  background-color: #E9AFA3;
+  background-color: #e5a699;
 }
 
 /* colors */
@@ -38,7 +38,7 @@
   --pink: #E9AFA3;
   --yellow: #e9d968;
   --beige: #fdf6e3;
-  --green-faint: #8fada750;
+  --green-faint: #58706c50;
   --light-blue-faint: #A7D5E850;
   --pink-faint: #E9AFA350;
 }
@@ -67,7 +67,7 @@
 /* Title slide customization */
 .title-slide h1, h2, h3 {
   text-align: left;
-  font-family: "Libre Baskerville";
+  font-family: 'Yanone Kaffeesatz';
 }
 
 .title-slide h2 {
@@ -95,7 +95,7 @@
 /* To make the most of the slide real estate */
 
 h1, h2, h3 {
-  margin-top: 5px;
+  margin-top: 10px;
   margin-bottom: 3px;
   margin-right: 5px;
   margin-left: 5px;
@@ -103,7 +103,7 @@ h1, h2, h3 {
 
 /* Font sizes */
 .huge {
-   font-family: "Libre Baskerville";
+   font-family: 'Yanone Kaffeesatz';
    font-size: 100%;
    font-weight: bold;
 }
@@ -122,13 +122,13 @@ h1, h2, h3 {
 /* Huge numbers */
 
 .huge-blue-number {
- font-family: "Libre Baskerville";
+ font-family: 'Yanone Kaffeesatz';
  font-size: 1700%;
  font-weight: bold;
  color: var(--light-blue);
 }
 .huge-pink-number {
- font-family: "Libre Baskerville";
+ font-family: 'Yanone Kaffeesatz';
  font-size: 1700%;
  font-weight: bold;
  color: var(--pink);
@@ -210,7 +210,8 @@ div.my-footer a {
   padding-bottom: 3px;
   margin-bottom: 6px;
   margin-top: 6px;
-  color: white;
+  color: #1c3834;
+  font-weight: bold;
 }
 
 .question{
