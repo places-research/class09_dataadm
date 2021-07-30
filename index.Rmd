@@ -138,6 +138,8 @@ class: middle
 
 .huge[.pink[queremos]] .hand[juntá-los]
 
+[Download dos dados](https://www.dropbox.com/s/69kwi1qkss0x7ih/dados.zip?dl=0) 
+
 ---
 
 ```{r include=FALSE}
