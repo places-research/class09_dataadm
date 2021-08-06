@@ -1,9 +1,9 @@
 ---
 title: "Bancos de dados múltiplos"
-subtitle: "Encontro Síncrono 09"
+subtitle: "Encontros Síncronos 09 e 10"
 author: 
   - <br></br>Renata Oliveira
-date: '30/07/21'
+date: '30/07/21 e 06/08/2021'
 output:
   xaringan::moon_reader:
     lib_dir: libs
